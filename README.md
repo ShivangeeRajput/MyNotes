@@ -7,7 +7,8 @@ The following **required** functionality is completed:
 
 ## Screenshots
 <p>
-<img src="https://user-images.githubusercontent.com/100294737/225009542-74514114-196f-49dd-9ece-847099b79e01.jpg" height="500">
+
+<img src="https://user-images.githubusercontent.com/100294737/225012756-e6998f02-fbd1-463a-8bc6-5f43b0bf638b.jpg" height="500">
 
 ## Notes
 
