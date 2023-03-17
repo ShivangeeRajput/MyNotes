@@ -1,5 +1,5 @@
 # MyNotes
-A Simple Clean Architecture Notes App(MVVM/CRUD/ROOM).
+A Simple Clean Architecture Notes App(ROOM).
 
 The following **required** functionality is completed:
 
