@@ -43,6 +43,6 @@
 
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="120dp"
-        android:src="@drawable/images" />
+        android:src="@drawable/icon" />
 
 </RelativeLayout>
