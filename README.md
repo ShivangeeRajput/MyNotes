@@ -4,9 +4,14 @@ A Simple Clean Architecture Notes App(ROOM).
 The following **required** functionality is completed:
 
 * [x] A Splash Screen
+* [x] User can add new note by clicking on Add Button/icon
+* [x] User can update the existing note
+* [x] User can search the existing note
+* [x] User can delete the existing note
 
 ## Walkthrough video
 <img src="https://user-images.githubusercontent.com/100294737/226104640-94581e26-4556-4c48-82b8-efb6ae1649dc.gif" height="500">
+
 ## Screenshots
 <p>
 
