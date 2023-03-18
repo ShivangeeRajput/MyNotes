@@ -6,7 +6,7 @@ The following **required** functionality is completed:
 * [x] A Splash Screen
 
 ## Walkthrough video
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/100294737/226103980-3524dd95-18a0-4263-a8d7-a64c8ea38dca.gif)
+<img src="https://user-images.githubusercontent.com/100294737/226104640-94581e26-4556-4c48-82b8-efb6ae1649dc.gif" height="500">
 ## Screenshots
 <p>
 
