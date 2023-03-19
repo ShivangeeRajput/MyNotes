@@ -8,6 +8,7 @@ The following **required** functionality is completed:
 * [x] User can update the existing note
 * [x] User can search the existing note
 * [x] User can delete the existing note
+* [x] Applied marquee for long titles
 
 ## Walkthrough video
 <img src="https://user-images.githubusercontent.com/100294737/226104640-94581e26-4556-4c48-82b8-efb6ae1649dc.gif" height="500">
